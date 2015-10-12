@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Pull request
 public class Handson2 {
 	public static void main(String[]args){
 		int Michael,Bruce;
